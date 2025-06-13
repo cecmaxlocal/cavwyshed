@@ -2,6 +2,8 @@ Of course. Here is a comprehensive `README.md` file for a project named **Cavwys
 
 This template is ready to be used. You just need to replace placeholder content (like screenshots and specific build commands) with your project's actual details.
 
+<img title="Cavwyshed Studio" alt="Freebasic" src="/matrix/cec/bin/image/logon.jpeg">
+
 ---
 
 # Cavwyshed Studio
