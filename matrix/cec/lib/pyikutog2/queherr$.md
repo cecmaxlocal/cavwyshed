@@ -1,0 +1,1 @@
+**Note** : Use the command **!!aizen** in <#1282408738556346401> if you wondering how to evo him ! Or : https://discord.com/channels/1205546848035799081/1282408738556346401/1350566891026120829
